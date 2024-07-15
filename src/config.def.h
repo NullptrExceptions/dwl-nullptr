@@ -37,7 +37,7 @@ static int tagWidth[] = { 16, 13, 16, 14, 13, 11 };
 /* logging */
 static int log_level = WLR_ERROR;
 
-#define WALLPAPER "/home/harry/Documents/programming/risotto/wallpaper.png" 
+#define WALLPAPER "path/to/wallpaper.png" 
 
 /* Autostart */
 static const char *const autostart[] = {
